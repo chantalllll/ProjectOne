@@ -22,4 +22,5 @@ body {
     border-width: 3px;
     text-decoration: none;
     color: black; 
+    border-radius:25px;
 }
