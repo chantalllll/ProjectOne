@@ -1,10 +1,10 @@
+/*this is for typography im sooo sleepy lol but i should probably drink some coffee*/
 h1{
     font-size: 40px;
     color: #ce6300;
     font-style: italic; 
     font-family: 'Ubuntu', sans-serif;
 }
-
 
 p{
     line-height: 28px;
@@ -14,4 +14,11 @@ p{
 
 body {
      background-color:#fcfbfa;
+}
+.button-link {
+    border-color:darkmagenta;
+    background-color: darkorange;
+    border-width: 2px;
+    text-decoration: none;
+    color: black; 
 }
