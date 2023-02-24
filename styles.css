@@ -15,6 +15,7 @@ p{
 body {
      background-color:#fcfbfa;
 }
+
 .button-link{
     border-color:darkmagenta;
     border-style:dotted;
@@ -23,4 +24,15 @@ body {
     text-decoration: none;
     color: black; 
     border-radius:25px;
+    padding: 10%;
+    width: 150px;
+    text-align: center;
+    margin-top:20px; 
+}
+
+.button-alert{
+border: double;
+border-color: rgb(224, 165, 2);
+background-color: blanchedalmond;
+
 }
