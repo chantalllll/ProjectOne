@@ -35,7 +35,13 @@ border-style: double;
 border-color: rgb(224, 165, 2);
 background-color: blanchedalmond;
 border-width: 3px;
+border-radius:25px;
+    padding: 2%;
+    width: 50px;
+    text-align: center;
+    margin-top:20px; 
 }
+
 .top-banner{
  height: 240px;
  text-align:center; 
