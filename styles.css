@@ -1,6 +1,6 @@
 h1{
     font-size: 40px;
-    color: #e29300;
+    color: #ce6300;
     font-style: italic; 
     font-family: 'Ubuntu', sans-serif;
 }
@@ -10,4 +10,8 @@ p{
     line-height: 28px;
     font-size: 14px; 
     font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+     background-color:#fcfbfa;
 }
