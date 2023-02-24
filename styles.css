@@ -31,7 +31,7 @@ body {
 }
 
 .button-alert{
-border-style: double;
+border-style:double;
 border-color: rgb(224, 165, 2);
 background-color: blanchedalmond;
 border-width: 7px;
@@ -51,7 +51,7 @@ border-width: 7px;
 }
 
 .main-content{
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 10px;
 }
