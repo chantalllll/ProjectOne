@@ -25,14 +25,30 @@ body {
     color: black; 
     border-radius:25px;
     padding: 10%;
-    width: 150px;
+    width: 50px;
     text-align: center;
     margin-top:20px; 
 }
 
 .button-alert{
-border: double;
+border-style: double;
 border-color: rgb(224, 165, 2);
 background-color: blanchedalmond;
-
+border-width: 3px;
 }
+.top-banner{
+ height: 240px;
+ text-align:center; 
+ padding-top: 110px;
+}
+
+.main-content{
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+footer{
+    height:10px;
+    text-align:center; 
+}
+
