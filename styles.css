@@ -18,7 +18,7 @@ body {
 
 .button-link{
     border-color:darkmagenta;
-    border-style:double;
+    border-style:dotted;
     background-color: darkorange;
     border-width: 7px;
     text-decoration: none;
