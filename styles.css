@@ -30,10 +30,10 @@ body {
     margin-top:20px; 
 }
 .button-alert{
-border-style:double;
-border-color: rgb(224, 165, 2);
-background-color: blanchedalmond;
-border-width: 7px;
+    border-style:double;
+    border-color: rgb(224, 165, 2);
+    background-color: blanchedalmond;
+    border-width: 7px;
     text-decoration: none;
     color: black; 
     border-radius:25px;
@@ -44,9 +44,9 @@ border-width: 7px;
 }
 
 .top-banner{
- height: 240px;
- text-align:center; 
- padding-top: 110px;
+    height: 240px;
+    text-align:center; 
+    padding-top: 110px;
 }
 
 .main-content{
