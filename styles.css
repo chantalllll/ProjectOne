@@ -45,6 +45,12 @@ body {
     margin-top:20px; 
 }
 
+nav{
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
 .nav-links {
     list-style-type:none; 
     margin:0 auto;
