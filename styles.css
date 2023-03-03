@@ -42,7 +42,16 @@ body {
     text-align: center;
     margin-top:20px; 
 }
+nav-links{
+        padding:20px; 
+}
 
+.nav-links {
+    list-style-type:none; 
+}
+.nav-links li {
+        display: inline; 
+}
 .top-banner{
     height: 240px;
     text-align:center; 
@@ -58,4 +67,5 @@ footer{
     height:10px;
     text-align:center; 
 }
+
 
