@@ -74,6 +74,8 @@ nav{
     padding-top: 110px;
     background-color: black;
     background-image: url("https://www2.illinois.gov/dnr/education/WAImages/WAWMLittleBrownBat-MD.jpg");
+    background-size: cover;
+    background-attachment:fixed ;
 }
 
 .main-content{
