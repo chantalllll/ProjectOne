@@ -114,4 +114,8 @@ body    {
     p{
         color:white; 
     }
+    
+    img {
+        border: 20px;;
+    }
 } 
