@@ -66,6 +66,7 @@ nav{
 .nav-links li a{
             padding-left: 10px;
             padding-right:10px;
+            front-size: 20px;
 
 }
 .top-banner{
@@ -94,3 +95,22 @@ footer{
         text-align: center;
         padding-top:110px;
 }
+
+@media only screen and (max-width:600px){
+/*mobile styles go here*/
+body    {
+
+    background-color:white; 
+    }
+    h1{
+        font-size: 40px; 
+        color: black; 
+        background-color: white; 
+    }
+    h2{
+        color:white; 
+    }
+    p{
+        color:white; 
+    }
+} 
